@@ -13,9 +13,9 @@ todoList.todos.forEach(todo => {
 
 // todoList.nuevoTodo(tarea);
 
-todoList.todos[0].imprimirClase();
+// todoList.todos[0].imprimirClase();
 
-console.log('todos',todoList.todos);
+// console.log('todos',todoList.todos);
 
 // crearTodoHTLM(tarea);
 
